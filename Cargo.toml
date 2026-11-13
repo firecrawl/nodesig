@@ -6,7 +6,7 @@ authors = ["Gergő Móricz <mogery@firecrawl.com>"]
 license = "AGPL-3.0"
 
 [dependencies]
-kuchikiki = "0.8.2"
+kuchikiki = "0.8.9-speedreader"
 base64 = "0.22.1"
 sha2 = "0.10.8"
 hex = "0.4.3"
